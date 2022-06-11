@@ -23,6 +23,7 @@ public class ReservationDTO {
     private String id_number;
     private String room_type;
     private Integer room_number;
+    private Integer room_number1;
 
 
 
